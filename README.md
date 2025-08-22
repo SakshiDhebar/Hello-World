@@ -1,6 +1,6 @@
 # Hello-World
 My first GitHub repository
-# Hello, I'm Sakshi Dhebar! 
+# Hello, I'm Sakshi Dhebar 
 
 ## About Me
 BCA Student at SVGU
